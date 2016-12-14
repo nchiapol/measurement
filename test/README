@@ -1,0 +1,3 @@
+to compile measurement_test.cpp use
+  g++ -std=c++11 -I/usr/include/unittest++ measurement_test.cpp ../measurement.cpp -o test_suite -lUnitTest++
+
